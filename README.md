@@ -1,2 +1,2 @@
-# binus_ml_course
+# binus-ml-course
 Machine Learning Course @BINUS University
